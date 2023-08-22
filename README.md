@@ -1,7 +1,6 @@
 # English to French Text Generator
 
-![Project Banner](![image](https://github.com/Himanshgit5458/English2French/tree/main/images/Banner.png)
-)
+![Project Banner](https://github.com/Himanshgit5458/English2French/raw/main/images/Banner.jpg)
 
 ## Table of Contents
 
@@ -51,11 +50,11 @@ An interactive website was built using Flask, enabling users to directly input E
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-_Description of the screenshot._
+![Screenshot 1](https://github.com/Himanshgit5458/English2French/raw/main/images/pic1.png)
+World Cloud for English Vocalulary
 
-![Screenshot 2](screenshots/screenshot2.png)
-_Description of the screenshot._
+![Screenshot 2](https://github.com/Himanshgit5458/English2French/raw/main/images/pic2.png)
+World Cloud for French Vocalulary
 
 
 
