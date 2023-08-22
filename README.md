@@ -1,6 +1,6 @@
 # English to French Text Generator
 
-![Project Banner](![image](https://github.com/Himanshgit5458/English2French/assets/96855684/b5ee0760-3e88-4560-9921-651b9e7bb26e)
+![Project Banner](![image](https://github.com/Himanshgit5458/English2French/tree/main/images/Banner.png)
 )
 
 ## Table of Contents
