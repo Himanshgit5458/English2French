@@ -49,17 +49,19 @@ An interactive website was built using Flask, enabling users to directly input E
 
 ## Screenshots
 
+### World Cloud for English Vocalulary
+
+
 ![Screenshot 1](https://github.com/Himanshgit5458/English2French/raw/main/images/pic1.png)
-World Cloud for English Vocalulary
 
 
 
 
 
 
+### World Cloud for French Vocalulary
 
 ![Screenshot 2](https://github.com/Himanshgit5458/English2French/raw/main/images/pic2.png)
-World Cloud for French Vocalulary
 
 
 
