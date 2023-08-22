@@ -27,7 +27,7 @@ A dataset of over 10,000 bilingual pairs of English sentences and their French t
 
 To dive into the project, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/yourusername/english-to-french-generator.git`
+1. Clone this repository: `git clone https://github.com/himanshgit5458/english-to-french-generator.git`
 2. Install required packages: `pip install -r requirements.txt`
 3. Launch the Jupyter notebook to explore data processing and model building.
 4. Run the Flask web app for an interactive translation experience.
